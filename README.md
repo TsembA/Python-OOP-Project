@@ -75,5 +75,5 @@ new_post.get_post_info()
 User Arno currently works as a Dance Teacher. You can contact them at arno@example.com
 User Arno currently works as a Junior Devops. You can contact them at arno@example.com
 User Peter Griffin currently works as a Chill guy. You can contact them at Peter@example.com
-Post: Teach Megan how to be a real man! written by Peter Griffin
+Post: Teach Megan how to be a real man! Written by Peter Griffin
 ```
